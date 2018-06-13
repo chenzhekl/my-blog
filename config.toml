@@ -7,6 +7,10 @@ googleAnalytics = "UA-33320605-1"
 disqusShortname = "chenzhekl"
 
 [[menu.main]]
+name = "PRML 中文版"
+weight = -1
+url = "/prml/"
+[[menu.main]]
 name = "About me"
 url = "/about/"
 
