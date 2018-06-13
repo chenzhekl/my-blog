@@ -2,25 +2,26 @@ baseURL = "https://chenzhekl.me/"
 languageCode = "zh-cn"
 author = "Zhe Chen"
 title = "chenzhekl"
-theme = "cocoa"
+theme = "lithium"
+googleAnalytics = "UA-33320605-1"
+disqusShortname = "chenzhekl"
 
 [[menu.main]]
-name                   = "Blog"
-weight                 = -120
-identifier             = "blog"
-url                    = "/blog/"
-
-[[menu.main]]
-name                   = "About"
-weight                 = -110
-identifier             = "about"
-url                    = "/about/"
+name = "About me"
+url = "/about/"
 
 [params]
-include_rss = true
-author = "Zhe Chen"
-selfintro = "PhD at Kyoto University | Computer Vision | Machine Learning"
-email = "chenzhekl@gmail.com"
-twitter = "//twitter.com/chenzhekl"
-instagram = "//instagram.com/chenzhekl"
-facebook = "//facebook.com/chenzhekl"
+description = "PhD at Kyoto University"
+
+highlightjsVersion = "9.11.0"
+highlightjsCDN = "https://cdnjs.cloudflare.com/ajax/libs"
+highlightjsTheme = "github"
+
+MathJaxCDN = "https://cdnjs.cloudflare.com/ajax/libs"
+MathJaxVersion = "2.7.1"
+
+[params.logo]
+url = "logo.png"
+width = 50
+height = 50
+alt = "Logo"

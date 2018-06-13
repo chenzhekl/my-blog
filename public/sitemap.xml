@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://chenzhekl.me/posts/2018/06/13/prml-preface/</loc>
+    <lastmod>2018-06-13T12:38:08+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://chenzhekl.me/about/</loc>
     <lastmod>2018-06-11T18:58:14+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chenzhekl.me/blog/2016/02/07/%E6%9C%AA%E5%AE%9A/</loc>
+    <loc>https://chenzhekl.me/posts/2016/02/07/%E6%9C%AA%E5%AE%9A/</loc>
     <lastmod>2016-02-07T01:33:38+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chenzhekl.me/blog/2016/01/05/%E5%86%99%E4%BA%8E2016%E5%B9%B4%E5%88%9D/</loc>
+    <loc>https://chenzhekl.me/posts/2016/01/05/%E5%86%99%E4%BA%8E2016%E5%B9%B4%E5%88%9D/</loc>
     <lastmod>2016-01-05T22:08:38+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chenzhekl.me/blog/2014/12/31/%E5%86%99%E4%BA%8E2014%E5%B9%B4%E6%9C%AB%E5%B0%BE/</loc>
+    <loc>https://chenzhekl.me/posts/2014/12/31/%E5%86%99%E4%BA%8E2014%E5%B9%B4%E6%9C%AB%E5%B0%BE/</loc>
     <lastmod>2014-12-31T21:09:38+09:00</lastmod>
   </url>
   
@@ -35,13 +40,13 @@
   </url>
   
   <url>
-    <loc>https://chenzhekl.me/blog/</loc>
-    <lastmod>2016-02-07T01:33:38+09:00</lastmod>
+    <loc>https://chenzhekl.me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chenzhekl.me/categories/</loc>
+    <loc>https://chenzhekl.me/posts/</loc>
+    <lastmod>2018-06-13T12:38:08+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -53,7 +58,7 @@
   
   <url>
     <loc>https://chenzhekl.me/</loc>
-    <lastmod>2018-06-11T18:58:14+09:00</lastmod>
+    <lastmod>2018-06-13T12:38:08+09:00</lastmod>
     <priority>0</priority>
   </url>
   
