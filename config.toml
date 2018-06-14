@@ -22,7 +22,7 @@ highlightjsCDN = "https://cdnjs.cloudflare.com/ajax/libs"
 highlightjsTheme = "github"
 
 MathJaxCDN = "https://cdnjs.cloudflare.com/ajax/libs"
-MathJaxVersion = "2.7.1"
+MathJaxVersion = "2.7.4"
 
 [params.logo]
 url = "logo.png"
