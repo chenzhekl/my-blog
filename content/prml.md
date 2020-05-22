@@ -7,5 +7,6 @@ draft: false
 PRML 中文翻译
 
 [序言]({{< ref "posts/2018/06/13/prml-preface.md" >}})  
-[数学符号]({{< ref "posts/2018/06/13/prml-notation.md" >}})  
+[数学符号]({{< ref "posts/2018/06/13/prml-notation.md" >}})
+
 1. [导论](#) [WIP]

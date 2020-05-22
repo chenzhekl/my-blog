@@ -1,31 +1,35 @@
-baseURL = "https://chenzhekl.me/"
+baseURL = "https://zchen.im/"
 languageCode = "zh-cn"
 author = "Zhe Chen"
 title = "chenzhekl"
-theme = "lithium"
+theme = "vanilla-bootstrap-hugo-theme"
 googleAnalytics = "UA-33320605-1"
 disqusShortname = "chenzhekl"
 
-[[menu.main]]
-name = "PRML 中文版"
-weight = -1
+[[taxonomies]]
+tag = "tags"
+category = "categories"
+
+[[menu.nav]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.nav]]
+name = "Blog"
+url = "/posts/"
+weight = 2
+
+[[menu.nav]]
+name = "PRML 翻译"
 url = "/prml/"
-[[menu.main]]
-name = "About me"
+weight = 3
+
+[[menu.nav]]
+name = "About"
 url = "/about/"
+weight = 4
 
 [params]
-description = "PhD at Kyoto University"
-
-highlightjsVersion = "9.11.0"
-highlightjsCDN = "https://cdnjs.cloudflare.com/ajax/libs"
-highlightjsTheme = "github"
-
-MathJaxCDN = "https://cdnjs.cloudflare.com/ajax/libs"
-MathJaxVersion = "2.7.4"
-
-[params.logo]
-url = "logo.png"
-width = 50
-height = 50
-alt = "Logo"
+katex = true
+homeText = "Hello!"

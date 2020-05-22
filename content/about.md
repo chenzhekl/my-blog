@@ -6,6 +6,6 @@ draft: false
 
 **Zhe Chen**
 
-PhD at Kyoto University
+PhD candidate at Kyoto University
 
-Research interests: computer vision, machine learning
+Research interests: material recognition, computational photography, machine learning
