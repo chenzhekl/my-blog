@@ -1,7 +1,7 @@
 baseURL = "https://zchen.im/"
 languageCode = "zh-cn"
 author = "Zhe Chen"
-title = "chenzhekl"
+title = "Zhe Chen"
 theme = "vanilla-bootstrap-hugo-theme"
 googleAnalytics = "UA-33320605-1"
 disqusShortname = "chenzhekl"
@@ -33,3 +33,6 @@ weight = 4
 [params]
 katex = true
 homeText = "Hello!"
+
+[markup.goldmark.renderer]
+unsafe= true
