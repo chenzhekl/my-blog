@@ -11,24 +11,9 @@ tag = "tags"
 category = "categories"
 
 [[menu.nav]]
-name = "Home"
+name = "About"
 url = "/"
 weight = 1
-
-[[menu.nav]]
-name = "Blog"
-url = "/posts/"
-weight = 2
-
-[[menu.nav]]
-name = "PRML 翻译"
-url = "/prml/"
-weight = 3
-
-[[menu.nav]]
-name = "About"
-url = "/about/"
-weight = 4
 
 [params]
 katex = true
