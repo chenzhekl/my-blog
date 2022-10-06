@@ -3,7 +3,6 @@ languageCode = "zh-cn"
 author = "Zhe Chen"
 title = "Zhe Chen"
 theme = "vanilla-bootstrap-hugo-theme"
-googleAnalytics = "UA-33320605-1"
 disqusShortname = "chenzhekl"
 
 [[taxonomies]]
@@ -11,13 +10,19 @@ tag = "tags"
 category = "categories"
 
 [[menu.nav]]
-name = "About"
+name = "Home"
+pre = "home"
 url = "/"
 weight = 1
 
+[[menu.nav]]
+name = "About"
+pre = "smile"
+url = "/about"
+weight = 2
+
 [params]
 katex = true
-homeText = "Hello!"
 
 [markup.goldmark.renderer]
 unsafe= true
