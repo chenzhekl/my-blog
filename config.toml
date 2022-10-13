@@ -16,7 +16,7 @@ url = "/"
 weight = 1
 
 [[menu.nav]]
-name = "About"
+name = "About me"
 pre = "smile"
 url = "/about"
 weight = 2

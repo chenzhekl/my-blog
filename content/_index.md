@@ -5,3 +5,5 @@ draft: false
 ---
 
 Hello!
+
+[About me]({{< ref "about.md" >}})
