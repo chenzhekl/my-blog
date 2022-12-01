@@ -8,6 +8,8 @@ Hi, I am a Ph.D. student at Computer Vision Laboratory, Kyoto University. I got 
 
 Email: me at zchen dot im
 
+[GitHub](https://github.com/chenzhekl) | [LinkedIn](https://www.linkedin.com/in/~zchen/)
+
 ## Publications
 
 -   _Invertible Neural BRDF for Object Inverse Rendering_ <br/>
