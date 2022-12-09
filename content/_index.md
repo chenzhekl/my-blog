@@ -6,4 +6,4 @@ draft: false
 
 Hello!
 
-[About me]({{< ref "about.md" >}})
+[About]({{< ref "about.md" >}})
