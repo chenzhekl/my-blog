@@ -5,7 +5,7 @@ categories:
   - PRML
 tags:
   - PRML
-draft: false
+draft: true
 ---
 
 ## 序言
@@ -42,6 +42,6 @@ Springer 为本书最终阶段的准备提供了大量支持，我想感谢我�
 
 最后，我想感谢我的妻子 Jenna 在写作本书数年中提供的全力支持。
 
-Chris Bishop  
-剑桥  
+Chris Bishop
+剑桥
 2006 年 2 月
