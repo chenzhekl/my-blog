@@ -12,12 +12,12 @@ Email: me at zchen dot im
 
 ## Publications
 
--   _Invertible Neural BRDF for Object Inverse Rendering_ <br/>
-    **Zhe Chen**, Shohei Nobuhara, and Ko Nishino <br/>
-    IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2021 <br/>
+- _Invertible Neural BRDF for Object Inverse Rendering_  
+    **Zhe Chen**, Shohei Nobuhara, and Ko Nishino  
+    IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2021  
     [IEEE Xplore](https://ieeexplore.ieee.org/document/9623493)
 
--   _Invertible Neural BRDF for Object Inverse Rendering_ <br/>
-    **Zhe Chen**, Shohei Nobuhara, and Ko Nishino <br/>
-    European Conference on Computer Vision (**ECCV**), 2020 (**Spotlight**) <br/>
+- _Invertible Neural BRDF for Object Inverse Rendering_  
+    **Zhe Chen**, Shohei Nobuhara, and Ko Nishino  
+    European Conference on Computer Vision (**ECCV**), 2020 (**Spotlight**)  
     [arxiv](https://arxiv.org/abs/2008.04030) | [project](https://vision.ist.i.kyoto-u.ac.jp/research/ibrdf)

@@ -2,27 +2,54 @@ baseURL = "https://zchen.im/"
 languageCode = "zh-cn"
 author = "Zhe Chen"
 title = "Zhe Chen"
-theme = "vanilla-bootstrap-hugo-theme"
-disqusShortname = "chenzhekl"
+theme = "typo"
 
-[[taxonomies]]
+[taxonomies]
 tag = "tags"
 category = "categories"
 
-[[menu.nav]]
-name = "Home"
-pre = "home"
-url = "/"
-weight = 1
-
-[[menu.nav]]
-name = "About"
-pre = "smile"
-url = "/about"
-weight = 2
-
 [params]
-katex = true
+homeCollectionTitle = "Posts"
+homeCollection = "posts"
 
-[markup.goldmark.renderer]
-unsafe= true
+theme = "auto"
+colorPalette = "gruvebox"
+hideHeader = false
+
+homeIntroTitle = 'Hi!'
+homeIntroContent = """
+Hi, I am a Ph.D. student at Computer Vision Laboratory, Kyoto University.
+I got my bachelor’s degree in electrical engineering from Zhejiang University in 2015.
+My research interests are mainly in inverse rendering, computational photography, and machine learning.
+
+Email: me at zchen dot im
+"""
+
+[[params.social]]
+name = "github"
+url = "https://github.com/chenzhekl"
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/~zchen"
+
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "Home"
+
+[[params.menu]]
+name = "Home"
+url = "/"
+
+[[params.menu]]
+name = "About"
+url = "/about"
+
+[[params.menu]]
+name = "Posts"
+url = "/posts"
+
+[markup]
+[markup.highlight]
+style = "algol"
