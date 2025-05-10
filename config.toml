@@ -12,7 +12,7 @@ category = "categories"
 homeCollectionTitle = "Posts"
 homeCollection = "posts"
 
-theme = "auto"
+theme = "dark"
 colorPalette = "gruvebox"
 hideHeader = false
 
